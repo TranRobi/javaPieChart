@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.PieChart?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo.HelloController">
+   <children>
+      <ListView fx:id="listView" layoutX="14.0" layoutY="49.0" prefHeight="200.0" prefWidth="200.0" />
+      <Button layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#beOlvas" text="Beolvasás" />
+      <PieChart fx:id="pieChart" layoutX="274.0" layoutY="56.0" prefHeight="289.0" prefWidth="281.0" />
+      <Button layoutX="290.0" layoutY="14.0" mnemonicParsing="false" onAction="#loadPieChart" text="Load PieChart" />
+      <Button layoutX="15.0" layoutY="265.0" mnemonicParsing="false" onAction="#novekvoSorr" text="Rendezés növekvő népesség" />
+      <Button layoutX="15.0" layoutY="303.0" mnemonicParsing="false" onAction="#csokkenoSor" text="Rendezés csökkenő népesség" />
+   </children>
+</AnchorPane>

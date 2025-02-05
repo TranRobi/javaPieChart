@@ -1,0 +1,102 @@
+New York,8419600
+Los Angeles,3980400
+Chicago,2716000
+Houston,2328000
+Phoenix,1690000
+Philadelphia,1584200
+San Antonio,1547300
+San Diego,1424500
+Dallas,1341000
+San Jose,1035500
+Austin,1016000
+Jacksonville,995000
+Fort Worth,958700
+Columbus,921600
+San Francisco,874800
+Charlotte,873000
+Indianapolis,867125
+Seattle,744955
+Denver,715878
+Washington,689545
+Boston,675647
+El Paso,681728
+Nashville,678448
+Detroit,670031
+Oklahoma City,669347
+Portland,652503
+Las Vegas,641903
+Memphis,633104
+Louisville,618733
+Baltimore,593490
+Milwaukee,590157
+Albuquerque,564559
+Tucson,548073
+Fresno,542107
+Mesa,518012
+Sacramento,513624
+Atlanta,506811
+Kansas City,508090
+Colorado Springs,478961
+Omaha,478192
+Raleigh,474069
+Miami,467963
+Long Beach,466742
+Virginia Beach,459470
+Oakland,433031
+Minneapolis,429606
+Tulsa,402742
+Arlington,398854
+Tampa,384959
+New Orleans,383997
+Wichita,389938
+Cleveland,372624
+Bakersfield,403455
+Aurora,379289
+Anaheim,346824
+Honolulu,345064
+Santa Ana,332318
+Riverside,331360
+Corpus Christi,327423
+Lexington,322570
+Henderson,320189
+Stockton,311178
+Saint Paul,307193
+Cincinnati,303940
+St. Louis,301578
+Pittsburgh,300286
+Greensboro,299035
+Lincoln,291923
+Anchorage,288000
+Plano,285494
+Orlando,284817
+Irvine,283700
+Newark,281917
+Durham,278993
+Chula Vista,276169
+Toledo,275116
+Fort Wayne,264488
+St. Petersburg,258308
+Laredo,256031
+Jersey City,254441
+Chandler,252692
+Madison,252551
+Lubbock,250933
+Scottsdale,249950
+Reno,248853
+Buffalo,278349
+Gilbert,243254
+Glendale,248325
+North Las Vegas,241369
+Winston-Salem,244605
+Chesapeake,241011
+Norfolk,238005
+Fremont,234962
+Garland,239928
+Irving,239783
+Hialeah,233339
+Richmond,232226
+Boise,228959
+Spokane,228989
+Baton Rouge,224149
+Tacoma,219205
+San Bernardino,222203
